@@ -18,7 +18,7 @@ my $result = $api->market_trade_history( market => $market,
 my $result = get_balances();
 ```
 
-All calls returns a reference to an array of hashes   See the API documentation for 
+All calls returns a reference to an array of hashes. See the [API](https://developers.miraiex.com/#/README) documentation for 
 more detail.
 
 ### Requires
