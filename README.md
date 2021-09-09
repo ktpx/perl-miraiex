@@ -12,7 +12,7 @@ Examples:
 my $api = Miraiex::API->new( apikey => <api_access_key>);
 
 my $result = $api->market_trade_history( market => $market,
-                                            count => $count );
+                                          count => $count );
                                             
 my $result = get_balances();
 ```
@@ -20,19 +20,18 @@ my $result = get_balances();
 All calls returns a json hash reference.  See the API documentation for 
 more detail.
 
-Requires
+### Requires
 
-```
-LWP::UserAgent
-JSON::XS
-URI
-Switch
-Scalar::Util
-Config::General
-Digest::SHA
-Time::HiRes
-URI::Query
-```
+* LWP::UserAgent
+* JSON::XS
+* URI
+* Switch
+* Scalar::Util
+* Config::General
+* Digest::SHA
+* Time::HiRes
+* URI::Query
+
 
 If you would like to sign up with the Miriex Exchange, you're welcome to use my
 affiliate link below.  
