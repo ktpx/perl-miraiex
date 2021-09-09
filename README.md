@@ -10,14 +10,15 @@ URL: https://www.miraiex.com
 Examples:
 ```
 my $api = Miraiex::API->new( apikey => <api_access_key>);
-
+```
+```
 my $result = $api->market_trade_history( market => $market,
                                           count => $count );
                                             
 my $result = get_balances();
 ```
 
-All calls returns a json hash reference.  See the API documentation for 
+All calls returns a reference to an array of hashes   See the API documentation for 
 more detail.
 
 ### Requires
