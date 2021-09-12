@@ -39,6 +39,10 @@ affiliate link below.
 
 https://miraiex.com/affiliate/?referral=2051eafd  
 
-
+Tip Jar (for coffee or tea)
+```
+BTC: bc1q4n6ny3qea3lg687n5dr92a607q4gxfvct4tl2v
+ETH: 0xA54cFB231Bf07dA327Deeba9c6fff04CE78dA571
+```
 Licence: GPLv3
 
