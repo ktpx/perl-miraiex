@@ -1,10 +1,10 @@
 # Perl MiraiEx (Firi) Crypto Trading API Package
  
-MiraIex (soon to be renamed Firi) is a Norwegian Crypto Exchange  
+MiraIex (now renamed Firi) is a Norwegian Crypto Exchange  
 
-API Documentation: https://developers.miraiex.com/#/README  
-API: https://api.miraiex.com   
-URL: https://www.miraiex.com  
+API Documentation: https://developers.firi.com/#/README  
+API: https://api.firi.com   
+URL: https://www.firi.com  
 
 
 Examples:
@@ -37,7 +37,7 @@ more detail.
 If you would like to sign up with the Miriex Exchange, you're welcome to use my
 affiliate link below.  
 
-https://miraiex.com/affiliate/?referral=2051eafd  
+https://firi.com/affiliate/?referral=2051eafd  
 
 Tip Jar (for coffee or tea)
 ```
