@@ -1,6 +1,6 @@
-# Perl MiraiEx (Firi) Crypto Trading API Package
+# Perl Firi Crypto Trading API Package
  
-MiraIex (now renamed Firi) is a Norwegian Crypto Exchange  
+Firi.com (previously MiraIex) is a Norwegian Crypto Exchange  
 
 API Documentation: https://developers.firi.com/#/README  
 API: https://api.firi.com   
